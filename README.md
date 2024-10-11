@@ -1,0 +1,1 @@
+Open /src/index.html
